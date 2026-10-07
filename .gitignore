@@ -1,0 +1,19 @@
+# Environment/secrets
+.env
+*.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs/temp
+*.log
+*.tmp
+
+# Node dependencies if we eventually build NUI
+node_modules/
+dist/
