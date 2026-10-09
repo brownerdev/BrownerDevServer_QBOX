@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: transparent;
+}
+.dispatcher {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.panel {
+    width: 420px;
+    padding: 24px;
+    background: #181818;
+    color: white;
+    border: 1px solid #333;
+}
+
+.eyebrow {
+    margin: 0 0 4px;
+    color: #9ca3af;
+    font-size: 14px;
+}
+
+h1 {
+    margin: 0 0 20px;
+    font-size: 28px;
+}
+
+.contract-card {
+    padding: 16px;
+    margin-bottom: 16px;
+    background: #242424;
+    border: 1px solid #3a3a3a;
+}
+
+.contract-card h2 {
+    margin: 0 0 8px;
+    font-size: 20px;
+}
+
+.contract-card p {
+    margin: 0 0 12px;
+    color: #d1d5db;
+}
+
+button {
+    padding: 10px 14px;
+    border: 0;
+    background: #f59e0b;
+    color: #111;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close-button {
+    background: #444;
+    color: white;
+}

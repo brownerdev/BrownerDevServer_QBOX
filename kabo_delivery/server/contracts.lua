@@ -1,0 +1,1 @@
+-- Contract creation and completion events will live here.
